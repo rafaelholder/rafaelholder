@@ -1,14 +1,14 @@
 - 👋 i,m @rafaelholder_ , Pernambuco, Brazil
 
 --- 👀 interested in:
-         Phyton
-         Javascript 
+         Flutter
+         Dart
          C; 
          Cybersec
          
 --- 🌱 currently learning 
          C; 
-         Phyton
+         Dart; Flutter;
          
 --- 💞️ looking to collaborate on Any Project and learning 
 --- 📫 How to reach me{ 
