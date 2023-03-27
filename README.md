@@ -1,14 +1,17 @@
 - 👋 i,m @rafaelholder_ , Pernambuco, Brazil
 
 --- 👀 interested in:
-         Flutter
-         Dart
-         C; 
-         Cybersec
+         Python
+         Javascript
+         Typescript
+         React
+         NextJS
+         
          
 --- 🌱 currently learning 
-         C; 
-         Dart; Flutter;
+         Python:
+         Javascript/Typescript
+         NextJS
          
 --- 💞️ looking to collaborate on Any Project and learning 
 --- 📫 How to reach me{ 
