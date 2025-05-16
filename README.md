@@ -2,14 +2,14 @@
 <div>
     <h1>Olá, sou o Rafael. 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
-    <p> Me chamo Rafael Holder. Quanto mais aprendo mais se apaixona pela tecnologia. Estudo  Gestão da Tecnologia da Informação para ter um ensino superior e conseguir ingressar em um mestrado e doutorado na área de cybersecurity. 
-    </p>
-    <p>Amo de aprender e compartilhar conhecimento e espero um dia pode trabalhar na industria de games. 
+    <p> Me chamo Holder.</p>
+    <p> Me chamo Rafael, sou apaixonado por tecnologia (e também por gastronomia) 
+        Atualmente, tenho focado no desenvolvimento de ferramentas em Python voltadas para segurança da informação. 
     </p>
 </div>
 <div>
     <h2>Conecte-se comigo</h2>
-   <a href="https://www.linkedin.com/in/rafael-holder-067239269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+   <a href="https://www.linkedin.com/in/rafaelholder" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
     <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJnMcMzdhrldbjmdhxcHCzdQfvpDBqPlRNQSdzbRTglbbLWSRCmjfnkBdWsWstLgJRKsq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 ## Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo rot13-flask](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=rot13-flask&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo GitCollection](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=GitCollection&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelholder/GitCollection)
 [![Repo CryptoBubbles](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=Crypto_Bubbles_BR&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelholder/Crypto_Bubbles_BR)
     
