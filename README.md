@@ -1,8 +1,7 @@
 
 <div>
-    <h1>Olá, sou o Rafael. 👋 </h1>
+    <h1>hello_friend 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
-    <p> Me chamo Holder.</p>
     <p> Me chamo Rafael, sou apaixonado por tecnologia (e também por gastronomia) 
         Atualmente, tenho focado no desenvolvimento de ferramentas em Python voltadas para segurança da informação. 
     </p>
