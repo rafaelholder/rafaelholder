@@ -19,7 +19,7 @@
 <br>
 
 ## Principais Projetos
-[![Repo rot13-flask](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=rot13-flask&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo rot13-flask](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=rot13-flask&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelholder/rot13-flask)
 [![Repo GitCollection](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=GitCollection&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelholder/GitCollection)
 [![Repo CryptoBubbles](https://github-readme-stats.vercel.app/api/pin/?username=rafaelholder&repo=Crypto_Bubbles_BR&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelholder/Crypto_Bubbles_BR)
     
