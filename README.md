@@ -1,8 +1,8 @@
 <div>
     <h1>hello_friend 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
-    <p> Me chamo Rafael, sou apaixonado por tecnologia (e também por gastronomia) 
-        Atualmente, tenho focado no desenvolvimento de ferramentas em Python voltadas para segurança da informação. 
+    <p> Me chamo Rafael,
+        e, atualmente, tenho focado no desenvolvimento de ferramentas em Python voltadas para segurança da informação. 
     </p>
 </div>
 <br>
