@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Desenvolvedor SAP ABAP na **EY**, atuando no desenvolvimento e na customização de soluções corporativas em SAP S/4HANA. Trago também experiência em desenvolvimento backend com Java e em Segurança da Informação, o que me ajuda a entregar soluções escaláveis e seguras.
+Desenvolvedor SAP ABAP Jr na **EY**, atuando no desenvolvimento e na customização de soluções corporativas em SAP S/4HANA. Trago também experiência em desenvolvimento backend com Java e em Segurança da Informação, o que me ajuda a entregar soluções escaláveis e seguras.
 
 - Desenvolvimento ABAP em SAP S/4HANA com CDS Views e RAP (ABAP RESTful Application Programming Model)
 - Joule, a IA generativa da SAP
@@ -24,11 +24,11 @@ Desenvolvedor SAP ABAP na **EY**, atuando no desenvolvimento e na customização
 
 ## Experiência
 
-| Onde | Função | Destaques |
-| --- | --- | --- |
-| **EY (Ernst & Young)** | Desenvolvedor SAP ABAP · Staff | Desenvolvimento e customização de soluções em SAP S/4HANA com ABAP, CDS Views e RAP |
-| **CESAR & CAIXA** | Desenvolvedor Fullstack (Summer Job) | Arquitetura de microsserviços em Java/Spring Boot para sistema antifraude |
-| **SEAP-PE** | Infraestrutura e SecOps | Automação de processos (Python/Bash), monitoramento de SOC, adequação à ISO 27001 e LGPD |
+| Onde | Função | Período | Destaques |
+| --- | --- | --- | --- |
+| **EY (Ernst & Young)** | Desenvolvedor SAP ABAP Jr | mar 2026 – atual | Desenvolvimento e customização de soluções em SAP S/4HANA com ABAP, CDS Views e RAP |
+| **CESAR & CAIXA** | Desenvolvedor Fullstack (Summer Job) | jan – fev 2026 | Arquitetura de microsserviços em Java/Spring Boot para sistema antifraude |
+| **SEAP-PE** | Estágio em Infraestrutura e SecOps | 2024 – jun 2025 | Automação de processos (Python/Bash), monitoramento de SOC, adequação à ISO 27001 e LGPD |
 
 ## Tech Stack
 
