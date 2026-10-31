@@ -15,9 +15,10 @@
 
 ## Sobre mim
 
-Desenvolvedor SAP ABAP na **EY**, atuando no desenvolvimento e na customização de soluções corporativas em SAP. Trago também experiência em desenvolvimento backend com Java e em Segurança da Informação, o que me ajuda a entregar soluções escaláveis e seguras.
+Desenvolvedor SAP ABAP na **EY**, atuando no desenvolvimento e na customização de soluções corporativas em SAP S/4HANA. Trago também experiência em desenvolvimento backend com Java e em Segurança da Informação, o que me ajuda a entregar soluções escaláveis e seguras.
 
-- Desenvolvimento e customização de soluções corporativas em SAP ABAP
+- Desenvolvimento ABAP em SAP S/4HANA com CDS Views e RAP (ABAP RESTful Application Programming Model)
+- Joule, a IA generativa da SAP
 - Microsserviços Java/Spring Boot para um sistema antifraude (CESAR & CAIXA)
 - SecOps, monitoramento de SOC e adequação à ISO 27001 e LGPD
 
@@ -25,7 +26,7 @@ Desenvolvedor SAP ABAP na **EY**, atuando no desenvolvimento e na customização
 
 | Onde | Função | Destaques |
 | --- | --- | --- |
-| **EY (Ernst & Young)** | Desenvolvedor SAP ABAP · Staff | Desenvolvimento e customização de soluções corporativas em SAP ABAP |
+| **EY (Ernst & Young)** | Desenvolvedor SAP ABAP · Staff | Desenvolvimento e customização de soluções em SAP S/4HANA com ABAP, CDS Views e RAP |
 | **CESAR & CAIXA** | Desenvolvedor Fullstack (Summer Job) | Arquitetura de microsserviços em Java/Spring Boot para sistema antifraude |
 | **SEAP-PE** | Infraestrutura e SecOps | Automação de processos (Python/Bash), monitoramento de SOC, adequação à ISO 27001 e LGPD |
 
@@ -34,6 +35,10 @@ Desenvolvedor SAP ABAP na **EY**, atuando no desenvolvimento e na customização
 **SAP**
 
 ![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![CDS Views](https://img.shields.io/badge/CDS_Views-0070F2?style=for-the-badge)
+![RAP](https://img.shields.io/badge/RAP-0070F2?style=for-the-badge)
+![Joule](https://img.shields.io/badge/Joule-0070F2?style=for-the-badge)
 
 **Backend & Automação**
 
