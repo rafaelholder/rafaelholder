@@ -65,9 +65,9 @@ Desenvolvedor SAP ABAP Jr na **EY**, atuando no desenvolvimento e na customizaç
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [SecureValidator](https://github.com/rafaelholder/SecureValidator) | Sistema de login seguro com hash de senhas (bcrypt) e banco SQLite | Python |
-| [rot13-flask](https://github.com/rafaelholder/rot13-flask) | Demonstração da cifra ROT13, uma variação da cifra de César | Python · Flask |
-| [Crypto Bubbles BR](https://github.com/rafaelholder/Crypto_Bubbles_BR) | Variação percentual das criptomoedas usando a API da Binance | JavaScript |
+| [SecureValidator](https://github.com/rafaelholder/SecureValidator) | Cadastro e login pelo terminal com senhas em hash bcrypt e SQLite, com testes e CI | Python |
+| [rot13-flask](https://github.com/rafaelholder/rot13-flask) | Aplicação web em Flask que aplica a cifra ROT13, com testes e CI | Python · Flask |
+| [Crypto Bubbles BR](https://github.com/rafaelholder/Crypto_Bubbles_BR) · [Demo](https://rafaelholder.github.io/Crypto_Bubbles_BR/) | Variação de 24 h das criptomoedas em bolhas, ao vivo pelo WebSocket da Binance | Next.js · React · d3 |
 
 ## Certificações e formação
 
